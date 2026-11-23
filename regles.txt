@@ -1,0 +1,115 @@
+1. LE SPECTRE
+
+Joueurs : 2 à 6.
+But : deviner la position d'un indice sur une échelle entre deux extrêmes.
+
+Déroulement d'une manche :
+1. Le jeu désigne un joueur comme donneur d'indice. Les autres sont les devineurs.
+2. Le jeu affiche à tous deux extrêmes opposés, par exemple « Très mauvais film » (0) et « Excellent film » (100).
+3. Le donneur reçoit secrètement un nombre entier de 0 à 100, tiré au hasard. Les devineurs ne le voient pas.
+4. Le donneur donne un seul indice (mot, nom ou courte phrase) correspondant, selon lui, au nombre secret. Il ne peut ni dire le nombre, ni donner une fourchette de nombres, ni utiliser de pourcentage.
+5. Chaque devineur place secrètement son curseur sur un nombre entier de 0 à 100. Une fois validé, son choix ne peut plus changer.
+6. Quand tous ont validé, le jeu révèle le nombre secret, les estimations et les points.
+
+Points de chaque devineur :
+- Écart de 0 à 5 : 3 points.
+- Écart de 6 à 15 : 2 points.
+- Écart de 16 à 25 : 1 point.
+- Écart supérieur à 25 : 0 point.
+Le donneur marque 1 point si au moins un devineur obtient 2 points ou plus.
+
+Fin de partie : chacun devient donneur une fois (un tour complet). Le joueur ayant le plus de points gagne. En cas d'égalité, les joueurs concernés sont ex æquo.
+
+2. L'IMPOSTEUR
+
+Joueurs : 3 à 6.
+But : démasquer l'imposteur, ou, pour l'imposteur, rester caché.
+
+Déroulement d'une manche :
+1. Le jeu choisit au hasard un imposteur. Tous les autres joueurs sont des innocents.
+2. Le jeu distribue secrètement un mot commun à tous les innocents et un mot proche, mais différent, à l'imposteur. Exemple : « Plage » pour les innocents, « Piscine » pour l'imposteur. Personne ne connaît son rôle.
+3. À tour de rôle, chaque joueur encore en jeu donne un indice court lié à son mot, sans prononcer son mot, une partie évidente de celui-ci, ni son équivalent dans une autre langue.
+4. Après que tous les joueurs encore en jeu ont donné un indice, chacun vote secrètement pour un autre joueur. Il est interdit de voter pour soi.
+5. Le joueur qui reçoit le plus de votes est éliminé et son rôle est révélé. En cas d'égalité au plus grand nombre de votes, aucun joueur n'est éliminé : une nouvelle série d'indices commence.
+6. Si l'imposteur est éliminé, les innocents gagnent immédiatement. Sinon, les joueurs restants recommencent à l'étape 3.
+7. Si l'imposteur est encore en jeu alors qu'il ne reste que deux joueurs, l'imposteur gagne immédiatement.
+
+Points : si les innocents gagnent, chaque innocent reçoit 2 points, même s'il a été éliminé. Si l'imposteur gagne, lui seul reçoit 4 points.
+
+Fin de partie : jouer autant de manches que de joueurs présents au début de la partie. Les rôles sont redistribués aléatoirement à chaque manche. Le plus grand total de points gagne ; les égalités sont acceptées.
+
+3. MINI DIXIT
+
+Joueurs : 3 à 6 (variante à 2 joueurs ci-dessous).
+But : reconnaître l'image du conteur parmi plusieurs images, en utilisant un indice imaginatif.
+
+Déroulement d'une manche à 3 à 6 joueurs :
+1. Le jeu désigne un conteur. Chaque joueur dispose de 5 images différentes, visibles seulement par lui.
+2. Le conteur choisit secrètement une de ses images et écrit une phrase, un mot ou un indice qui l'évoque. Il ne doit pas décrire l'image de façon trop littérale.
+3. Chaque autre joueur choisit secrètement, parmi ses 5 images, celle qui correspond le mieux à l'indice du conteur.
+4. Le jeu mélange l'image du conteur et les images proposées par les autres, puis les affiche anonymement à tout le monde.
+5. Tous les joueurs sauf le conteur votent secrètement pour l'image qu'ils pensent être celle du conteur. Il est interdit de voter pour sa propre image.
+6. Les votes et l'identité des images sont révélés.
+
+Points :
+- Si certains devineurs, mais pas tous, ont trouvé l'image du conteur : le conteur gagne 3 points et chaque devineur ayant trouvé gagne 3 points.
+- Si tous les devineurs ont trouvé, ou si personne n'a trouvé : le conteur marque 0 point et chaque devineur marque 2 points.
+- Dans tous les cas, chaque joueur autre que le conteur gagne en plus 1 point par vote reçu sur son image (sans compter son propre vote, qui est interdit).
+
+Après chaque manche, les images utilisées sont remplacées pour que chaque joueur ait de nouveau 5 images.
+
+Variante à 2 joueurs :
+1. Le conteur choisit une image et donne son indice.
+2. Le jeu ajoute automatiquement 3 images leurres, choisies parmi des images non utilisées.
+3. L'autre joueur doit retrouver l'image du conteur parmi les 4 images mélangées.
+4. Si le devineur trouve : il gagne 2 points et le conteur 1 point. Sinon, personne ne marque.
+5. Les rôles sont inversés à la manche suivante.
+
+Fin de partie : chaque joueur devient conteur deux fois. Le plus grand total de points gagne ; les égalités sont acceptées.
+
+4. MÊME CERVEAU
+
+Joueurs : 2 à 6.
+But : donner, sans se concerter, la même réponse que le plus grand nombre d'autres joueurs.
+
+Déroulement d'une manche :
+1. Le jeu affiche à tous une question ouverte, par exemple « Cite quelque chose qu'on trouve dans un frigo ».
+2. Chacun écrit secrètement une seule réponse courte, sans communiquer avec les autres.
+3. Quand tous ont validé, toutes les réponses sont révélées simultanément.
+4. Le jeu regroupe les réponses identiques en ignorant les majuscules, les accents et les espaces superflus. Les synonymes ne comptent comme identiques que s'ils figurent dans une liste d'équivalences prévue par le jeu.
+5. Chaque joueur gagne des points selon le nombre total de joueurs ayant donné exactement sa réponse (lui compris).
+
+Points :
+- Réponse donnée par une seule personne : 0 point.
+- Réponse donnée par 2 personnes : 1 point chacune.
+- Réponse donnée par 3 personnes : 2 points chacune.
+- Réponse donnée par 4 personnes : 3 points chacune.
+- Réponse donnée par 5 personnes : 4 points chacune.
+- Réponse donnée par 6 personnes : 5 points chacune.
+Exception à 2 joueurs : si les deux réponses correspondent, chacun gagne 2 points ; sinon, 0 point.
+
+Exemple : quatre joueurs répondent « Lait », « Fromage », « Lait », « Lait ». Les trois joueurs ayant écrit « Lait » gagnent chacun 2 points ; l'autre gagne 0 point.
+
+Fin de partie : jouer 8 manches. Le joueur avec le plus de points gagne ; les égalités sont acceptées.
+
+5. TOP SECRET
+
+Joueurs : 2 à 6.
+But : faire deviner un nombre secret grâce à un exemple lié à un thème donné.
+
+Déroulement d'une manche :
+1. Le jeu désigne un joueur comme maître du nombre. Les autres sont les devineurs.
+2. Le maître reçoit secrètement un nombre entier entre 0 et 100, tiré au hasard.
+3. Le jeu affiche un thème précis et une échelle dont les extrêmes sont fixes, par exemple « Dangerosité d'un personnage de fiction : 0 = inoffensif, 100 = extrêmement dangereux ».
+4. Le maître donne un seul exemple concret dans la catégorie indiquée, qui représente selon lui le nombre secret (par exemple un personnage de fiction). Il ne peut pas donner de chiffres, de pourcentages ni d'indications telles que « plus de 70 ».
+5. Chaque devineur propose secrètement un nombre entier entre 0 et 100. Une fois validé, ce choix est définitif.
+6. Quand tous ont validé, le jeu révèle le nombre secret, les réponses et les points.
+
+Points de chaque devineur :
+- Écart de 0 à 5 : 3 points.
+- Écart de 6 à 15 : 2 points.
+- Écart de 16 à 25 : 1 point.
+- Écart supérieur à 25 : 0 point.
+Le maître gagne 1 point si au moins un devineur obtient 2 points ou plus.
+
+Fin de partie : chaque joueur devient maître du nombre une fois. Le joueur avec le plus de points gagne ; les égalités sont acceptées.

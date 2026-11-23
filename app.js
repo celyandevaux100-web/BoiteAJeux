@@ -69,8 +69,8 @@ function createRoom(mode,selected,names) {
   if(mode==="online") hostOnline();else {dialog.close();publish();}
 }
 function startPeer(id,onOpen){
-  if(typeof Peer==="undefined"){failure("Le module de connexion n’a pas pu démarrer.");return null;}
-  const p=new Peer(id,{secure:true,debug:0});peer=p;
+  if(typeof RoomPeer==="undefined"){failure("Le module de connexion n’a pas pu démarrer.");return null;}
+  const p=new RoomPeer(id);peer=p;
   timer=setTimeout(()=>{if(p===peer)failure("Le salon ne répond pas. Vérifie le code, ta connexion et que l’hôte a gardé son onglet ouvert.");},18000);
   p.on("open",()=>{if(p===peer)onOpen(p);});
   p.on("error",e=>{
